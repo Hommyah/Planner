@@ -1,0 +1,23 @@
+.today {
+    height: 90px;
+    width: 100%;
+    background: #407a17;
+}
+.calendar {
+    height: 877px;
+    width: 100%;
+}
+
+th {
+    border: 1px solid #282c34;
+    background: #9fc984;
+    color: #282c34;
+}
+
+td {
+    border: 1px solid #282c34;
+}
+
+table {
+    border-collapse: collapse;
+}
